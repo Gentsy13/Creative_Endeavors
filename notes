@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <header>
+        <title>NOTES</title>
+    <div class="NOTE">
+        <h1>Understanding Usability and Its Importance</h1>
+        <h2>INTRODUCTION TO USABILITY</h2>
+        <p>“Usability is about human behavior. It recognizes that humans are lazy, get emotional,
+            are not interested in putting a lot of effort into, say, getting a credit card and generally
+             prefer things that are easy to do vs. those that are hard to do.” — David McQuillen, ex-Swiss banker and 
+             founder of Sufferfest cycling workout resources</p>
+            <p>Usability is a <strong>quality attribute</strong> that assesses
+                how easy user interfaces are to use. The word
+                "usability" also refers to methods for improving
+                ease-of-use during the design process.</p>
+            <h3>USABILITY</h3>
+            <ol>
+                <li>Satisfaction</li>
+                <li>Learnability</li>
+                <li>Few errors</li>
+                <li>Effiency</li>
+                <li>Memorability</li>
+            </ol>
+
+            <h3>Definition of <strong>Utility</strong></h3>
+            <p>whether it provides the features you need</p>
+            <h3>Definition of <strong>Usability</strong></h3>
+            <p>how easy & pleasant these features are to use.</p>
+            <h3>Definition of <strong>Useful</strong></h3>
+            <p>usability + utility</p>
+            <h2>Why Usability Is Important?</h2>
+            <p> On the Web, usability is a necessary condition for survival. If
+            a website is difficult to use, people leave. If
+            the homepage fails to clearly state what a company offers
+            and what users can do on the site, people leave. If users get
+            lost on a website, they leave. If a website's information is
+            hard to read or doesn't answer users' key questions,
+            they leave. </p>
+            <h2>Usability Elements For Exceptional Experiences</h2>
+            <p>People often confuse usability with user experience
+                and <strong>ease of use</strong>. Usability is a component of <strong>user
+                experience (UX) design</strong>. According to the <strong>Nielsen
+                Norman Group</strong>—a leader in the UX field—usability is
+                the <strong>second level in user experience</strong>. It comes
+                after <strong> utility</strong> and before <strong>desirability</strong> and <strong>brand experience</strong>.
+               </p>
+
+               <ol>
+                <li>Effectiveness— It supports users in completing actions accurately.</li>
+                <li>Efficiency— Users can perform tasks quickly through the easiest process.</li>
+                <li>Engagement— Users find it pleasant to use and appropriate for its
+                    industry/topic.</li>
+                <li>Error Tolerance —It supports a range of user actions and only shows an
+                    error in genuine erroneous situations. You achieve this by finding out the
+                    number, type and severity of common errors users make, as well as
+                    how easily users can recover from those errors.</li>
+                <li>Ease of Learning—New users can accomplish goals easily and even more
+                        easily on future visits.</li>
+               </ol>
+               <h2>USABILITY INVOLVES...</h2>
+               <ul>
+                    <li><img src="Screenshot 2024-02-18 170443" alt="IMAGE"></li>
+                    <li><img src="nothing" alt="IMAGE"></li>
+                    <li><img src="nothing" alt="IMAGE"></li>
+                    <li><img src="nothing" alt="IMAGE"></li>
+                    <li><img src="nothing" alt="IMAGE"></li>
+                    <li><img src="nothing" alt="IMAGE"></li>
+                    <li><img src="nothing" alt="IMAGE"></li>
+              </ul>
+            <h2>How to Improve Usability</h2>
+            <ul>
+                <li>Get hold of some <strong>representative users</strong>, such as customers for an
+                    ecommerce site or employees for an intranet (in the latter case, they
+                    should work outside your department).</li>
+                <li>Ask the users to perform <strong>representative tasks</strong> with the design.</li>
+                <li><strong>Observe</strong> what the users do, where they succeed, and where they
+                        have difficulties with the user interface. Shut up and <strong>let the users do
+                        the talking</strong>.</li>
+                </ul>
+                <h3>When to Work on Usability</h3>
+                <ol>
+                    <li>Before starting the new design, test the old design to identify the good parts that you should keep or emphasize,
+                        and the bad parts that give users trouble.</li>
+                    <li>Unless you're working on an intranet, test your competitors' designs to get cheap data on a range of alternative
+                        interfaces that have similar features to your own. (If you work on an intranet, read the intranet design annual to learn
+                        from other designs.)</li>
+                    <li>Conduct a field study to see how users behave in their natural habitat.</li>
+                    <li>Make paper prototypes of one or more new design issdeas and test them. The less time you invest in these design
+                        ideas the better, because you'll need to change them all based on the test results.
+                        </li>
+                    <li>Refine the design ideas that test best through multiple iterations, gradually moving from low-fidelity prototyping to
+                        high-fidelity representations that run on the computer. Test each iteration.</li>
+                    <li>Inspect the design relative to established usability guidelines whether from your own earlier studies or published
+                        research.</li>
+                    <li>Once you decide on and implement the final design, test it again. Subtle usability problems always creep in during
+                        implementation.</li>
+                </ol> 
+                <h2>Components of Usability</h2>
+                <h3>"Key Components of Usability"</h3>
+                <ul>
+                    <li><strong>Effectiveness:</strong> The accuracy and completeness with
+                        which users can achieve their goals</li>
+                        <li><strong>Efficiency:</strong> The speed and resource usage in relation to
+                            the achieved goals</li>
+                            <li><strong>Satisfaction:</strong> The subjective experience and user
+                                satisfaction with the interaction.</li>
+                </ul>
+
+                <h2>USER-CENTERED DESIGN</h2>
+                <p>"Usability is at the core of User-Centered Design. UCD involves
+                    understanding the user's needs,
+                    preferences, and context throughout
+                    the design process."</p>
+
+                <h2>The Business Case for Usability</h2>
+                <h3>"Business Impact of Usability"</h3>
+                <h3>Points:</h3>
+                <ul>
+                    <li>Higher user satisfaction leads to increased customer
+                        loyalty.</li>
+                        <li>Improved usability reduces support costs and the
+                            need for extensive user training.</li>
+                            <li>Usable products are more likely to gain positive
+                                reviews and word-of-mouth recommendations.</li>                        
+                </ul>
+                <h2>Usability vs. User Experience</h2>
+                <p>Efficiency, error tolerance, ease of learning and user
+                    comfort are the main usability goals. The goal is to answer
+                    the question “Is it easy to use?”</p>
+                    <p>In contrast, user experience focuses on creating value,
+                    satisfaction and an engaging experience. The goal of user
+                    experience is to answer the question “Does it feel good?”</p>
+                <ul></ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+   
+    
+
+</header>
+
+</html>
